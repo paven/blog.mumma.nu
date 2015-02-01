@@ -1,9 +1,9 @@
 [submodule "_posts/mumma"]
 	path = _posts/mumma
-	url = https://github.com:paven/blog.mumma.nu_posts.git
+	url = https://github.com/paven/blog.mumma.nu_posts.git
 [submodule "_posts/HowToKnow"]
 	path = _posts/HowToKnow
-	url = https://github.com:paven/blog.howtoknow.se_blogs.git
+	url = https://github.com/paven/blog.howtoknow.se_blogs.git
 [submodule "_posts/HowToCode"]
 	path = _posts/HowToCode
-	url = https://github.com:paven/blog.howtocode.se_blogs.git
+	url = https://github.com/paven/blog.howtocode.se_blogs.git
